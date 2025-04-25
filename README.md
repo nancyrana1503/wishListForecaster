@@ -66,7 +66,9 @@ ERROR: Value must be between 1 and 3
 How important is it to you? [1=must have, 2=important, 3=want]: 4 
 ERROR: Value must be between 1 and 3 
 How important is it to you? [1=must have, 2=important, 3=want]: 1 
-Does this item have financing options? [y/n]: N ERROR: Must be a lowercase 'y' or 'n' Does this item have financing options? [y/n]: Y 
+Does this item have financing options? [y/n]: N
+ERROR: Must be a lowercase 'y' or 'n'
+Does this item have financing options? [y/n]: Y 
 ERROR: Must be a lowercase 'y' or 'n' 
 Does this item have financing options? [y/n]: k 
 ERROR: Must be a lowercase 'y' or 'n' 
