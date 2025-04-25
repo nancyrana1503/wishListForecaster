@@ -5,19 +5,8 @@ This program allows users to enter their net monthly income and build a wish lis
 ---
 
 ## ⚙️ How to Use
-
-1. **Clone or Download the Repository**  
-   ```
-   git clone https://github.com/Seneca-144100/IPC-Workshops.git
-   ```
-   Or download the ZIP and **extract it**.
-
-2. **Compile and Run**  
-   Use a C compiler like `gcc`:
-   ```bash
-   gcc w6p1.c -o wishlist
-   ./wishlist
-   ```
+ **Compile and Run**  
+   Use a C compiler 
 
 4. **Follow the Prompts**
    * 0
