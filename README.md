@@ -49,7 +49,8 @@ This program allows users to enter their net monthly income and build a wish lis
 
 ## 📌 Example Output
 
-```+--------------------------+ 
+```
++--------------------------+ 
 + Wish List Forecaster | 
 +--------------------------+ 
 
