@@ -1,4 +1,4 @@
-# 💰 Wish List Forecaster (Workshop 6 Part-1)
+# 💰 Wish List Forecaster 
 
 This program allows users to enter their net monthly income and build a wish list of items they plan to purchase in the future. Each item is assigned a price, priority, and financing option. The application stores this information using parallel arrays and displays a summary table of the wish list along with the total cost.
 
